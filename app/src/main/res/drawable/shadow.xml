@@ -10,6 +10,8 @@
                 android:width="12dp"
                 android:color="#1111" />
 
+
+
             <!-- setting the thickness of shadow (positive value will give shadow on that side) -->
             <gradient
                 android:startColor="#dadada"
